@@ -1,0 +1,18 @@
+{
+  "name": "tank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^6.3.0",
+    "johnny-five": "^1.3.0",
+    "nodebots-hcsr04": "git+https://github.com/ajfisher/nodebots-hcsr04.git",
+    "nodebots-interchange": "^1.3.0"
+  }
+}
